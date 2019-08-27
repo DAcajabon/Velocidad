@@ -1,0 +1,7 @@
+C:\Users\Danilo Giron\Desktop\Practicas 2019\PruebaVelocidad\PruebaVelocidad\bin\Debug\PruebaVelocidad.exe.config
+C:\Users\Danilo Giron\Desktop\Practicas 2019\PruebaVelocidad\PruebaVelocidad\bin\Debug\PruebaVelocidad.exe
+C:\Users\Danilo Giron\Desktop\Practicas 2019\PruebaVelocidad\PruebaVelocidad\bin\Debug\PruebaVelocidad.pdb
+C:\Users\Danilo Giron\Desktop\Practicas 2019\PruebaVelocidad\PruebaVelocidad\obj\Debug\PruebaVelocidad.csprojAssemblyReference.cache
+C:\Users\Danilo Giron\Desktop\Practicas 2019\PruebaVelocidad\PruebaVelocidad\obj\Debug\PruebaVelocidad.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Giron\Desktop\Practicas 2019\PruebaVelocidad\PruebaVelocidad\obj\Debug\PruebaVelocidad.exe
+C:\Users\Danilo Giron\Desktop\Practicas 2019\PruebaVelocidad\PruebaVelocidad\obj\Debug\PruebaVelocidad.pdb
